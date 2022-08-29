@@ -1,13 +1,13 @@
 # MyBlockRawList
 turn some block list to clash
 
-original link：
+original repositories link：
 
-https://github.com/zzhihao2017/CN-Malicious-website-list.git
+https://github.com/zzhihao2017/CN-Malicious-website-list
 
-https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn_sites.txt
+https://github.com/mhxion/pornaway
 
-https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists/pi_blocklist_porn_all.list
+https://github.com/chadmayfield/my-pihole-blocklists
 
-https://raw.githubusercontent.com/4skinSkywalker/Anti-Porn-HOSTS-File/master/HOSTS.txt
+https://github.com/4skinSkywalker/Anti-Porn-HOSTS-File
 
